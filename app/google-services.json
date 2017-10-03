@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "608273926807",
+    "firebase_url": "https://doctor-69aec.firebaseio.com",
+    "project_id": "doctor-69aec",
+    "storage_bucket": "doctor-69aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608273926807:android:14aad5ab6dd614f5",
+        "android_client_info": {
+          "package_name": "com.example.pramo.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608273926807-js9t9i4tc08ttg5ifmc2meltili1tl0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pramo.doctor",
+            "certificate_hash": "89f0ee9e86ba923fd4e581df0b8833a65f9753f8"
+          }
+        },
+        {
+          "client_id": "608273926807-a7tojtgmfhbuftao41f768ipjle7s440.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRx97d9vwYxnR5XU_g9kk2xyST4dW8FNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608273926807-a7tojtgmfhbuftao41f768ipjle7s440.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
